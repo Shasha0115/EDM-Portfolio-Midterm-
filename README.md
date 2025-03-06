@@ -9,5 +9,5 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
                          Aldersgate Ecumenical School (Grade 7-8)
 - Elementary : Sto Rosario Elementary School
 ## My Projects 
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/README..md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/READ%20ME.md)
 - Midterm Lab Task 2:
