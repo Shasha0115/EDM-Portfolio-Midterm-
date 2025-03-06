@@ -8,7 +8,6 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 •	Senior High School : Angeles City National High School - Senior High School
 
 •	Junior High School : Angeles City National High School (Grade 9 – 10)
-
                        Aldersgate Ecumenical School (Grade 7-8)
                        
 •	Elementary : Sto Rosario Elementary School
