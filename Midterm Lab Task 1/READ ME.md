@@ -12,7 +12,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Perform 3NF
 - Mapped the Normalized tables as a Physical Data Model
 ## Here's the screenshoot of my output before I started data cleaning (See screenshot)
-
+![Sample Output](images/1.JPG)
 ## Here's the screenshoot of my output after I started data cleaning (See screenshot)
-
+![Sample Output](images/1.JPG)
 ## Here's the Physical Data Model
