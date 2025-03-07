@@ -6,6 +6,9 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - TRIM extra spaces
 - Remove NULL values
 - Remove Duplicates
+- Spell Check
+- Data Validation
+- Number Format
 ## Normalization
 - Perform 1NF
 - Perform Table split using 2NF
