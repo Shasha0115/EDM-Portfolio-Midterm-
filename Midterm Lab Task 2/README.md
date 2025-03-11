@@ -21,4 +21,10 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![Sample Output](images/clean3.png)
 ![Sample Output](images/clean.png)
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
-
+![Sample Output](images/roletype.png)
+![Sample Output](images/sizeref.png)
+![Sample Output](images/bysize.png)
+![Sample Output](images/stateref1.png)
+![Sample Output](images/stateref2.png)
+![Sample Output](images/states1.png)
+![Sample Output](images/states2.png)
