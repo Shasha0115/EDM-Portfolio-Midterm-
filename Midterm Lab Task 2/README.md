@@ -1,6 +1,8 @@
 # Midterm Lab Task 2 Data Cleaning and Preparation using Power Query
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data Cleaning and Preparation using Power Query
 ## Step 1 Data Cleaning Process
+- Load the raw file
+- Duplicate the raw data
 - Salary Estimate Column
 - Create 2 New Columns (From the Salary Estimate) Min Sal and Max Sal
 - ADD COLUMN – Role Type
@@ -18,3 +20,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![Sample Output](images/clean2.png)
 ![Sample Output](images/clean3.png)
 ![Sample Output](images/clean.png)
+## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
+
