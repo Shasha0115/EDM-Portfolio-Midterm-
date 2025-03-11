@@ -28,3 +28,5 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![Sample Output](images/stateref2.png)
 ![Sample Output](images/states1.png)
 ![Sample Output](images/states2.png)
+## Step 5 Here's the screenshot of my Query Dependencies (See Screenshot) 
+![Sample Output](images/query.png)
