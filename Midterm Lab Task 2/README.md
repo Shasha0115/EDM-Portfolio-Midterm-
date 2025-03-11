@@ -8,4 +8,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![Sample Output](images/unclean3.PNG)
 ![Sample Output](images/unclean4.PNG)
 ## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
-![Sample Output](images/unclean4.PNG)
+![Sample Output](images/clean1.PNG)
+![Sample Output](images/clean2.PNG)
+![Sample Output](images/clean3.PNG)
+![Sample Output](images/clean.PNG)
