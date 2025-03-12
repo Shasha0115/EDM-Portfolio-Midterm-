@@ -23,14 +23,14 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
 - Sal by Role Type
 ![Sample Output](images/roletype.png)
-- Sal by Size Role Type
+- Sal by Role Size ref
 ![Sample Output](images/sizeref.png)
-- Sal by Role Size
+- Sal by Size Role Type
 ![Sample Output](images/bysize.png)
-- States
+- Sal by State Ref
 ![Sample Output](images/stateref1.png)
 ![Sample Output](images/stateref2.png)
-- Sal by State Ref
+- States
 ![Sample Output](images/states1.png)
 ![Sample Output](images/states2.png)
 ## Here's the screenshot of my Query Dependencies (See Screenshot) 
