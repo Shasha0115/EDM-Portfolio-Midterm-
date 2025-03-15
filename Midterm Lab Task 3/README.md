@@ -14,13 +14,23 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 - Create Chart.
 ## Step 4: Create the Dashboard better
 - Insert Slicers for Role Type, Size and State
-- Insert MAP if your Excel version has one (2019 and up)
+- Insert MAP if your Excel version has one (2019 and up) 
 - Apply your own design and colour settings to make your DASHBOARD look more
 appealing and presentable.
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/roletype.png
+![Sample Output](images/job.PNG)
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
+- Pivot Table for each analysis
+![Sample Output](images/pivot1.PNG)
+![Sample Output](images/pivot2.PNG)
+![Sample Output](images/pivot3.PNG)
+- Slicers and Filter
+![Sample Output](images/slicers.PNG)
 Here's the Final Dashboard Output
+- Final Dashboard
+![Sample Output](images/dashboard.PNG)
+
+(My Excel was only 2016, that's why I don't have a map.)
 
 
    
