@@ -23,11 +23,11 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
 - Pivot Table for each analysis
-![Sample Output](images/pivot1.PNG)
-![Sample Output](images/pivot2.PNG)
-![Sample Output](images/pivot3.PNG)
-- Slicers and Filter
+![Sample Output](images/pivot.PNG)
+
+-Slicers and Table
 ![Sample Output](images/slicers.PNG)
+
 Here's the Final Dashboard Output
 - Final Dashboard
 ![Sample Output](images/dashboard.PNG)
