@@ -22,10 +22,11 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 ![Sample Output](images/job.PNG)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
+
 - Pivot Table for each analysis
 ![Sample Output](images/pivot.PNG)
 
--Slicers and Table
+- Slicers and Table
 ![Sample Output](images/slicers.PNG)
 
 Here's the Final Dashboard Output
