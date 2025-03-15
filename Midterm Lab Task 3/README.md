@@ -22,15 +22,9 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 ![Sample Output](images/job.PNG)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
-
-- Pivot Table for each analysis
 ![Sample Output](images/pivot.PNG)
-
-- Slicers and Table
 ![Sample Output](images/slicers.PNG)
-
 Here's the Final Dashboard Output
-- Final Dashboard
 ![Sample Output](images/dashboard.PNG)
 
 (My Excel was only 2016, that's why I don't have a map.)
