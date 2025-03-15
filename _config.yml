@@ -1,4 +1,4 @@
 title: Trisha
-logo: image/trishapic.jpg
+logo: ![Sample Output](image/trishapic.jpg)
 show download: true
 tremote_theme: pages-themes/minimal@v0.2.0
