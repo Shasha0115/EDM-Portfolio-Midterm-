@@ -17,8 +17,10 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 - Insert MAP if your Excel version has one (2019 and up) 
 - Apply your own design and colour settings to make your DASHBOARD look more
 appealing and presentable.
+
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/job.PNG)
+
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
 - Pivot Table for each analysis
 ![Sample Output](images/pivot1.PNG)
