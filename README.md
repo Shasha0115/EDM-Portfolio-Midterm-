@@ -12,3 +12,6 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%201/READ%20ME.md)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%202/README.md)
 - Midterm Lab Task 3: [Creating PIVOT table and Dashboard](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%203/README.md)
+
+- Finals Lab Task 1:
+  
