@@ -2,9 +2,13 @@
 For this task, we are given MySQL statements that need to be implemented.
 Here’s the screenshot of Query Statements (See screenshots)
 ![Sample Output](images/t1.png)
+
 ![Sample Output](images/T2.png)
+
 ![Sample Output](images/T3.png)
+
 ![Sample Output](images/T4.png)
+
 ![Sample Output](images/T5.png)
 
 Here's the screenshot of Table Structure (See screenshots)
@@ -25,7 +29,9 @@ Here's the screenshot of Table Structure (See screenshots)
 ![Sample Output](images/TAB5.png)
 
 Here's the ER Diagram or Relational Schema
+
 ![Sample Output](images/EER.png)
 
 SQL copy of the database and table structures
+
 ![Sample Output](images/CODE.png)
