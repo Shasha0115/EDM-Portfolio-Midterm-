@@ -14,4 +14,4 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 - Midterm Lab Task 3: [Creating PIVOT table and Dashboard](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%203/README.md)
 
 - Finals Lab Task 1: [Multi Level Company Database](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%201)
-- Finals Lab Task 2: [Transforming ER Model to Relational Tables]()
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%202)
