@@ -10,10 +10,16 @@ Here’s the screenshot of Query Statements (See screenshots)
 
 Here's the screenshot of Table Structure (See screenshots)
 
+- Student table
+  
 ![Sample Output](images/T1.png)
 
+- Assignment table
+  
 ![Sample Output](images/T2.png)
 
+- Submission table
+  
 ![Sample Output](images/T3.png)
 
 Here's the ER Diagram or Relational Schema
