@@ -14,18 +14,23 @@ Here’s the screenshot of Query Statements (See screenshots)
 Here's the screenshot of Table Structure (See screenshots)
 
 - Task 1
+  
 ![Sample Output](images/TAB1.png)
 
 - Task 2
+  
 ![Sample Output](images/TAB2.png)
 
 - Task 3
+  
 ![Sample Output](images/TAB3.png)
 
 - Task 4
+  
 ![Sample Output](images/TAB4.png)
 
 - Task 5
+  
 ![Sample Output](images/TAB5.png)
 
 Here's the ER Diagram or Relational Schema
