@@ -17,12 +17,12 @@ Here’s the screenshot of Query Statements (See screenshots)
 
 - Task 4: Modify the product_name field into a maximum length of 120 characters. (Altering Table)
   
-![Sample Output](images/t4.png)
+![Sample Output](images/T4.png)
 
 Here's the screenshot of Table Structure (See screenshots)
 - Table 1
 
-![Sample Output](images/T1.png)
+![Sample Output](images/T1.PNG)
 
 - Table 2
 
