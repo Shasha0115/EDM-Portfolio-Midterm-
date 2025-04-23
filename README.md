@@ -16,4 +16,4 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 - Finals Lab Task 1: [Multi Level Company Database](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%201)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%202)
 - Finals Lab Task 3: [Table Manipulation](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%203)
-- Finals Lab Task 3-1: [Using SELECT CLAUSE]()
+- Finals Lab Task 3-1: [Using SELECT CLAUSE](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%203-1%20)
