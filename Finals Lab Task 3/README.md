@@ -5,7 +5,7 @@ Here’s the screenshot of Query Statements (See screenshots)
 
 - Task 1: Create a table named products with the following fields:
 
-![Sample Output](images/T1.PNG)
+![Sample Output](images/C1.PNG)
 
 - Task 2: Add a CHECK constraint
 
@@ -22,7 +22,7 @@ Here’s the screenshot of Query Statements (See screenshots)
 Here's the screenshot of Table Structure (See screenshots)
 - Table 1
 
-![Sample Output](images/T5.png)
+![Sample Output](images/T1.png)
 
 - Table 2
 
