@@ -1,11 +1,11 @@
-![image](https://github.com/user-attachments/assets/79278163-bccc-4521-b83b-c6bd3033a966)## Finals Lab Task 3. Table Manipulation
+## Finals Lab Task 3. Table Manipulation
 For this task, we need to implement MySQL statements. 
 
 Here’s the screenshot of Query Statements (See screenshots)
 
 - Task 1: Create a table named products with the following fields:
 
-![Sample Output](images/T1.png)
+![Sample Output](images/T1.PNG)
 
 - Task 2: Add a CHECK constraint
 
@@ -34,8 +34,8 @@ Here's the screenshot of Table Structure (See screenshots)
 
 Here's the ER Diagram or Relational Schema
 
-![Sample Output](images/EER.png)
+![Sample Output](images/EER.PNG)
 
 SQL copy of the database and table structures
 
-![Sample Output](images/CODE.png)
+![Sample Output](images/CODE.PNG)
