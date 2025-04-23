@@ -1,4 +1,4 @@
-## Finals Lab Task 3. Table Manipulation
+![image](https://github.com/user-attachments/assets/79278163-bccc-4521-b83b-c6bd3033a966)## Finals Lab Task 3. Table Manipulation
 For this task, we need to implement MySQL statements. 
 
 Here’s the screenshot of Query Statements (See screenshots)
@@ -26,6 +26,10 @@ Here's the screenshot of Table Structure (See screenshots)
 - Table 2
 
 ![Sample Output](images/T3.png)
+
+- Table 3
+
+![Sample Output](images/T8.png)
 
 Here's the ER Diagram or Relational Schema
 
