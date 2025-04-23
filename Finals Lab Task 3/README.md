@@ -13,11 +13,11 @@ Here’s the screenshot of Query Statements (See screenshots)
 
 - Task 3: Insert the products into the products table.
 
-![Sample Output](images/T6.png)
+![Sample Output](images/INSERT.PNG)
 
 - Task 4: Modify the product_name field into a maximum length of 120 characters. (Altering Table)
   
-![Sample Output](images/T4.png)
+![Sample Output](images/t4.png)
 
 Here's the screenshot of Table Structure (See screenshots)
 - Table 1
