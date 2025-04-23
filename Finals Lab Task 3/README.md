@@ -29,7 +29,7 @@ Here's the screenshot of Table Structure (See screenshots)
 
 - Table 3
 
-![Sample Output](images/T8.png)
+![Sample Output](images/T8.PNG)
 
 Here's the ER Diagram or Relational Schema
 
