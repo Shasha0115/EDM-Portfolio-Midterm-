@@ -12,12 +12,15 @@ Here’s the screenshot of Query Statements (See screenshots)
 ![Sample Output](images/TSK2.PNG)
 
 - Task 3
+
 ![Sample Output](images/TSK3.PNG)
 
 - Task 4
+  
 ![Sample Output](images/TSK4.PNG)
 
 - Task 5
+  
 ![Sample Output](images/TSK5.PNG)
 
 Here's the screenshot of Table Structure (See screenshots)
