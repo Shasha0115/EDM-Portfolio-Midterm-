@@ -1,5 +1,6 @@
 # Midterm Lab Task 2 Data Cleaning and Preparation using Power Query
 For this task we are given a Flat data from Excel (See rawfile) and we are Task to perform Data Cleaning and Preparation using Power Query
+
 ## Step 1 Data Cleaning Process
 - Load the raw file
 - Duplicate the raw data
@@ -10,17 +11,23 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Select Location column
 - Filter New Column
 - Handle negative values
+  
 ## Step 2 Here's the screenshoot of my output before I started data cleaning using power query (See screenshot)
+
 ![Sample Output](images/unclean1.PNG)
 ![Sample Output](images/unclean2.PNG)
 ![Sample Output](images/unclean3.PNG)
 ![Sample Output](images/unclean4.PNG)
+
 ## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
+
 ![Sample Output](images/clean1.png)
 ![Sample Output](images/clean2.png)
 ![Sample Output](images/clean3.png)
 ![Sample Output](images/clean.png)
+
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
+
 - Sal by Role Type
 ![Sample Output](images/roletype.png)
 - Sal by Role Size ref
@@ -33,5 +40,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - States
 ![Sample Output](images/states1.png)
 ![Sample Output](images/states2.png)
-## Here's the screenshot of my Query Dependencies (See Screenshot) 
+
+## Here's the screenshot of my Query Dependencies (See Screenshot)
+
 ![Sample Output](images/query.png)
