@@ -9,11 +9,11 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
                          Aldersgate Ecumenical School (Grade 7-8)
 - Elementary : Sto Rosario Elementary School
 ## My Projects 
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%201/READ%20ME.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%202/README.md)
-- Midterm Lab Task 3: [Creating PIVOT table and Dashboard](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/blob/main/Midterm%20Lab%20Task%203/README.md)
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201)
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](Midterm%20Lab%20Task%202)
+- Midterm Lab Task 3: [Creating PIVOT table and Dashboard](Midterm%20Lab%20Task%203)
 
-- Finals Lab Task 1: [Multi Level Company Database](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%201)
-- Finals Lab Task 2: [Transforming ER Model to Relational Tables](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%202)
-- Finals Lab Task 3: [Table Manipulation](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%203)
-- Finals Lab Task 3-1: [Using SELECT CLAUSE](https://github.com/Shasha0115/EDM-Portfolio-Midterm-/tree/main/Finals%20Lab%20Task%203-1%20)
+- Finals Lab Task 1: [Multi Level Company Database](Finals%20Lab%20Task%201)
+- Finals Lab Task 2: [Transforming ER Model to Relational Tables](Finals%20Lab%20Task%202)
+- Finals Lab Task 3: [Table Manipulation]Finals%20Lab%20Task%203)
+- Finals Lab Task 3-1: [Using SELECT CLAUSE](Finals%20Lab%20Task%203-1%20)
