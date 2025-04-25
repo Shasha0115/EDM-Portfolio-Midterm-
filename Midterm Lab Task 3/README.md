@@ -1,4 +1,4 @@
-# Midterm Lab Task 3: Creating Pivot table and Dashboard
+# Midterm Lab Task 3. Creating Pivot table and Dashboard
 For this task I worked on organizing and showing data using Pivot Table and Dashboard in Excel. 
 
 ## Step 1: Prepared the Data
