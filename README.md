@@ -18,4 +18,4 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 - Finals Lab Task 1: [Multi Level Company Database](Finals%20Lab%20Task%201)
 - Finals Lab Task 2: [Transforming ER Model to Relational Tables](Finals%20Lab%20Task%202)
 - Finals Lab Task 3: [Table Manipulation](Finals%20Lab%20Task%203)
-- Finals Lab Task 3-1: [Using SELECT CLAUSE](Finals%20Lab%20Task%203-1%20)
+- Finals Lab Task 4: [Using SELECT CLAUSE](Finals%20Lab%20Task%203-1%20)
