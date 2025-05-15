@@ -30,7 +30,7 @@ Here’s the screenshot of Table Structure (See screenshots)
 
 - Table 2
 
-![Sample Output](images/t2.png)
+![Sample Output](images/T2.png)
 
 - Table 3
 
