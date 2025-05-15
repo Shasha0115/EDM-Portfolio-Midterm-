@@ -40,12 +40,8 @@ Here’s the screenshot of Table Structure (See screenshots)
 
 ![Sample Output](images/T4.png)
 
-- Table 5
 
 
 
-Here’s the ER Diagram or Relational Schema
 
 
-
-SQL copy of the database and table structures
