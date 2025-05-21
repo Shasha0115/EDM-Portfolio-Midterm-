@@ -12,7 +12,7 @@ Insert Documents
 
 - Task 1
   
-db.movies.find()
+``` db.movies.find() ```
 
 ![Sample Output](images/P3.png)
 
