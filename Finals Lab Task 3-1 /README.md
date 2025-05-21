@@ -1,4 +1,4 @@
-## Finals Lab Task 4. Using SELECT CLAUSE
+# Finals Lab Task 4. Using SELECT CLAUSE
 For this task, we need to implement using MySQL statements.
 
 Here’s the screenshot of Query Statements (See screenshots)
