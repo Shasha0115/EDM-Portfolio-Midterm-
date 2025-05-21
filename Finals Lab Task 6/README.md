@@ -1,10 +1,10 @@
-## Finals Lab Task 6. MongoDB Practice
+# Finals Lab Task 6. MongoDB Practice
 
 ## Create Database
 
 ![Sample Output](images/P1.png)
 
-Insert Documents
+## Insert Documents
 
 ![Sample Output](images/P2.png)
 
