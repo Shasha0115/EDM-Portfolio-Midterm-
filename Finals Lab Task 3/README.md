@@ -1,4 +1,4 @@
-## Finals Lab Task 3. Table Manipulation
+# Finals Lab Task 3. Table Manipulation
 For this task, we need to implement MySQL statements. 
 
 Here’s the screenshot of Query Statements (See screenshots)
