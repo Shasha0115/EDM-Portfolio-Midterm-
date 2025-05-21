@@ -20,3 +20,4 @@ Hi, I am Trisha Nicole Cayetano Calmona. I am currently 19 years old and live at
 - Finals Lab Task 3: [Table Manipulation](Finals%20Lab%20Task%203)
 - Finals Lab Task 4: [Using SELECT CLAUSE](Finals%20Lab%20Task%203-1%20)
 - Finals Lab Task 5: [Using SQL views and Stored Procedures and Stored Functions](Finals%20Lab%20Task%205)
+- Finals Lab Task 6: [MongoDB Practice](Finals%20Lab%20Task%206)
